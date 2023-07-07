@@ -13,6 +13,8 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=encoderuz&show_icons=true&locale=en&layout=compact" alt="encoderuz" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=encoderuz&show_icons=true&locale=en" alt="encoderuz" /></p>
+
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=encoderuz&" alt="encoderuz" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=encoderuz&show_icons=true&locale=en" alt="encoderuz" /></p>
