@@ -6,7 +6,7 @@
 - 📫 How to reach me ? For this: +998911973030 phone number or telegram: @encoder_uz
 - Nowadays I creating custom admin dashboard panel with IT-WORKS
 ## My family
-<a href="https://it-works.uz" target="_blank" rel="noreferrer"> <img src="https://it-works.uz/Untitled-1.png" alt="xd" width="40" height="40"/> </a>
+<a href="https://it-works.uz" target="_blank" rel="noreferrer"> <img src="https://it-works.uz/Untitled-1.png" alt="xd" width="50%" /> </a>
 
 ## My super skills
 
