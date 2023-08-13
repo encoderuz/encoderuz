@@ -6,9 +6,9 @@
 - 🧐 I’m looking to collaborate on CRM systems
 - 📫 How to reach me ? For this: +998911973030 phone number or telegram: @encoder_uz
 - Nowadays I creating custom admin dashboard panel with IT-WORKS
+- [![wakatime](https://wakatime.com/badge/user/9214ced6-2049-4bb5-835b-1bc6d598f882.svg)](https://wakatime.com/@9214ced6-2049-4bb5-835b-1bc6d598f882)
 
 
-[![wakatime](https://wakatime.com/badge/user/9214ced6-2049-4bb5-835b-1bc6d598f882.svg)](https://wakatime.com/@9214ced6-2049-4bb5-835b-1bc6d598f882)
 ## My family
  
 <a href="https://it-works.uz" target="_blank" rel="noreferrer"> <img src="https://it-works.uz/Untitled-1.png" width="50%" /> </a>
