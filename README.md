@@ -5,7 +5,7 @@
 - 👋 Hi, I’m Abdukodir Khojiyev
 - 👀 I’m interested in all things in the world )
 - 🌱 I’m currently learning React for advanced skills
-- 🧐 I’m looking to collaborate on CRM systems
+- 🧐 I’m looking to collaborate on CRM systems.
 - 📫 How to reach me ? For this: +998911973030 phone number or telegram: @encoder_uz
 - Nowadays I creating custom admin dashboard panel with IT-WORKS
 - [![wakatime](https://wakatime.com/badge/user/9214ced6-2049-4bb5-835b-1bc6d598f882.svg)](https://wakatime.com/@9214ced6-2049-4bb5-835b-1bc6d598f882)
