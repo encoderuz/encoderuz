@@ -16,6 +16,7 @@
 
 
 # Trophies
+
 <p align="left">
   <img alig src="https://github-profile-trophy.vercel.app/?username=encoderuz&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
