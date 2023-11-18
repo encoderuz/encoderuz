@@ -1,7 +1,6 @@
 # Welcome to my profile :)
 
 
-
 - 👋 Hi, I’m Abdukodir Khojiyev
 - 👀 I’m interested in all things in the world )
 - 🌱 I’m currently learning React for advanced skills
