@@ -9,6 +9,9 @@
 - Nowadays I creating custom admin dashboard panel with IT-WORKS
 - [![wakatime](https://wakatime.com/badge/user/9214ced6-2049-4bb5-835b-1bc6d598f882.svg)](https://wakatime.com/@9214ced6-2049-4bb5-835b-1bc6d598f882)
 
+![Metrics](https://github.com/encoderuz/encoderuz/blob/main/metrics.svg)
+
+
 ### My family
 
 <a href="https://it-works.uz" target="_blank" rel="noreferrer"> <img src="https://it-works.uz/Untitled-1.png" width="50%" /> </a>
