@@ -13,7 +13,6 @@
 
 <a href="https://it-works.uz" target="_blank" rel="noreferrer"> <img src="https://it-works.uz/Untitled-1.png" width="50%" /> </a>
 
-
 # Trophies
 
 <p align="left">
