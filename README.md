@@ -10,7 +10,7 @@
 - [![wakatime](https://wakatime.com/badge/user/9214ced6-2049-4bb5-835b-1bc6d598f882.svg)](https://wakatime.com/@9214ced6-2049-4bb5-835b-1bc6d598f882)
 
 ## For donation )
-<a href="buymeacoffee.com/encoderuz" target="_blank" rel="noreferrer"> <img width="208" alt="snapshot-bmc-button" src="https://github.com/encoderuz/encoderuz/assets/43345536/e5002e56-1775-4dea-8ea8-9da9e20f4cd4"> </a>
+<a href="https://buymeacoffee.com/encoderuz" target="_blank" rel="noreferrer"> <img width="208" alt="snapshot-bmc-button" src="https://github.com/encoderuz/encoderuz/assets/43345536/e5002e56-1775-4dea-8ea8-9da9e20f4cd4"> </a>
 
 
 
