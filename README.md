@@ -13,7 +13,6 @@
 <a href="https://buymeacoffee.com/encoderuz" target="_blank" rel="noreferrer"> <img width="208" alt="snapshot-bmc-button" src="https://github.com/encoderuz/encoderuz/assets/43345536/e5002e56-1775-4dea-8ea8-9da9e20f4cd4"> </a>
 
 # Trophies
-
 <p align="left">
   <img alig src="https://github-profile-trophy.vercel.app/?username=encoderuz&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
