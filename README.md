@@ -1,7 +1,7 @@
 # Welcome to my profile :)
 
 
-- 👋 Hi, I’m Abdukodir Khojiyev
+- 👋 Hi, I’m Abdukodir Khojiyev Dilshodvich
 - 👀 I’m interested in all things in the world )
 - 🌱 I’m currently learning React for advanced skills
 - 🧐 I’m looking to collaborate on CRM systems.
