@@ -7,7 +7,6 @@
 - 🧐 I’m looking to collaborate on CRM systems.
 - 📫 How to reach me ? For this: +998911973030 phone number or telegram: @encoder_uz
 - Nowadays I creating custom admin dashboard panel with IT-WORKS
-
 ## For donation )
 <a href="https://buymeacoffee.com/encoderuz" target="_blank" rel="noreferrer"> <img width="208" alt="snapshot-bmc-button" src="https://github.com/encoderuz/encoderuz/assets/43345536/e5002e56-1775-4dea-8ea8-9da9e20f4cd4"> </a>
 
