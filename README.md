@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning React for advanced skills
 - 🧐 I’m looking to collaborate on CRM systems.
 - 📫 How to reach me ? For this: +998911973030 phone number or telegram: @encoder_uz
-- Nowadays I creating custom admin dashboard panel with IT-WORKS
+- Nowadays I working on Marketplace startup.
 # Trophies
 <p align="left">
   <img alig src="https://github-profile-trophy.vercel.app/?username=encoderuz&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" />
