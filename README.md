@@ -7,7 +7,7 @@
 - 🧐 I’m looking to collaborate on CRM systems.
 - 📫 How to reach me ? For this: +998911973030 phone number or telegram: @encoder_uz
 - Nowadays I working on Marketplace startup.
-
+[![Metrics](/github-metrics.svg)](https://github.com/encoderuz)
  
 # Trophies
 <p align="left">
